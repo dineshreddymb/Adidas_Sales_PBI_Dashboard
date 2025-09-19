@@ -69,3 +69,8 @@ Columns Discription :
 - Open the .pbix file in Power BI Desktop.
 - Explore the interactive dashboard with filters & slicers.
 - Analyze insights across retailers, regions, and product categories.
+
+
+📊 Final Dashboard – Adidas Sales Power BI
+-----------------------------------------------
+<img width="1547" height="868" alt="Screenshot 2025-09-14 123210" src="https://github.com/user-attachments/assets/022e554a-1e63-4172-b2e4-ffae6f3c6940" />
