@@ -73,4 +73,5 @@ Columns Discription :
 
 📊 Final Dashboard – Adidas Sales Power BI
 -----------------------------------------------
-<img width="1547" height="868" alt="Screenshot 2025-09-14 123210" src="https://github.com/user-attachments/assets/022e554a-1e63-4172-b2e4-ffae6f3c6940" />
+<img width="1537" height="868" alt="image" src="https://github.com/user-attachments/assets/caa8b882-29d1-41b1-abae-6abca54185a4" />
+
